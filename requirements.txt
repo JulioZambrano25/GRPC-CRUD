@@ -1,0 +1,4 @@
+grpcio # Librería principal de gRPC para Python (para comunicación remota entre servicios)
+grpcio-tools # Herramientas de gRPC como el compilador de archivos .proto a código Python
+psycopg2-binary # Driver PostgreSQL para Python; permite conectarse y trabajar con bases de datos PostgreSQL
+python-dotenv # Carga variables de entorno desde archivos .env al entorno de ejecución de Python
